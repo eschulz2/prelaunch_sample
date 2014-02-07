@@ -22,6 +22,11 @@ label {
   display: block;
   font-weight: bold;
 }
+h3 {
+  color: #404853;
+  display: block;
+  font-weight: bold;
+}
 input {
   background: #fff;
   border: 1px solid #c6c9cc;
@@ -90,5 +95,7 @@ div {
   clear: both;
   vertical-align: top;
   display: inline-block;
+  color: #404853;
+  font-weight: bold;
 
 }
