@@ -99,3 +99,8 @@ div {
   font-weight: bold;
 
 }
+
+#failure {
+  color: red;
+  display: none;
+}
