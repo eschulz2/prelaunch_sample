@@ -56,6 +56,8 @@ fieldset input {
 #top {
   width: 100%;
   color: #5093C1;
+  padding: 0;
+  background-color: #8DAFC1;
 }
 #login_submit {
   /*background: linear-gradient(top, #687587, #404853);*/
