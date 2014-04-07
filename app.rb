@@ -8,3 +8,7 @@ set :root, File.dirname(__FILE__)
 get '/' do
   erb :hello
 end
+
+get '/' do
+  erb :sendgrid	
+end
