@@ -9,6 +9,6 @@ get '/' do
   erb :hello
 end
 
-get '/' do
+get '/sendgrid' do
   erb :sendgrid	
 end
